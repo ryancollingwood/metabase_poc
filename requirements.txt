@@ -1,0 +1,3 @@
+metabase-api
+baserowapi
+python-dotenv
